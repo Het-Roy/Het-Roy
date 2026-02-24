@@ -12,118 +12,100 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<svg viewBox="0 0 600 640" xmlns="http://www.w3.org/2000/svg" width="600" height="640" font-family="Georgia, 'Times New Roman', serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 580" width="560" height="580">
 
   <!-- Background -->
-  <rect width="600" height="640" fill="#0d1117" rx="18"/>
+  <rect width="560" height="580" rx="16" fill="#0d1117"/>
 
-  <!-- Subtle grid dots -->
-  <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-    <circle cx="12" cy="12" r="0.8" fill="#ffffff" opacity="0.04"/>
-  </pattern>
-  <rect width="600" height="640" fill="url(#dots)" rx="18"/>
-
-  <!-- Header -->
-  <text x="300" y="48" text-anchor="middle" font-size="26" font-weight="bold" fill="#f0f6fc" letter-spacing="6">HET ROY</text>
-  <text x="300" y="70" text-anchor="middle" font-size="10" fill="#7d8590" letter-spacing="4" font-family="'Courier New', monospace">ASPIRING WEB DEVELOPER</text>
-  <line x1="200" y1="82" x2="400" y2="82" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Spoke lines (behind everything) -->
-  <!-- HTML5 spoke -->
-  <line x1="300" y1="355" x2="300" y2="187" stroke="#e34c26" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- CSS3 spoke -->
-  <line x1="300" y1="355" x2="412" y2="203" stroke="#2965f1" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- JS spoke -->
-  <line x1="300" y1="355" x2="481" y2="297" stroke="#f7df1e" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- React spoke -->
-  <line x1="300" y1="355" x2="481" y2="413" stroke="#61dafb" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- Node spoke -->
-  <line x1="300" y1="355" x2="412" y2="507" stroke="#68a063" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- MongoDB spoke -->
-  <line x1="300" y1="355" x2="300" y2="543" stroke="#47a248" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- Express spoke -->
-  <line x1="300" y1="355" x2="188" y2="507" stroke="#8a8a8a" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- Git spoke -->
-  <line x1="300" y1="355" x2="119" y2="413" stroke="#f05032" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- Figma spoke -->
-  <line x1="300" y1="355" x2="119" y2="297" stroke="#a259ff" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
-  <!-- C/C++ spoke -->
-  <line x1="300" y1="355" x2="188" y2="203" stroke="#659ad2" stroke-width="1" opacity="0.25" stroke-dasharray="3 4"/>
+  <!-- HEADER -->
+  <text x="280" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#f0f6fc" font-family="sans-serif" letter-spacing="5">HET ROY</text>
+  <text x="280" y="56" text-anchor="middle" font-size="9" fill="#484f58" font-family="monospace" letter-spacing="3">ASPIRING WEB DEVELOPER</text>
+  <line x1="160" y1="66" x2="400" y2="66" stroke="#21262d" stroke-width="1"/>
 
   <!-- Outer ring -->
-  <circle cx="300" cy="355" r="190" fill="none" stroke="#21262d" stroke-width="1"/>
-  <!-- Inner ring -->
-  <circle cx="300" cy="355" r="95" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="5 5"/>
+  <circle cx="280" cy="315" r="200" fill="none" stroke="#21262d" stroke-width="1.5"/>
+  <!-- Inner ring dashed -->
+  <circle cx="280" cy="315" r="100" fill="none" stroke="#21262d" stroke-width="1" stroke-dasharray="4 6"/>
 
-  <!-- ═══ CENTER ═══ -->
-  <circle cx="300" cy="355" r="52" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
-  <text x="300" y="349" text-anchor="middle" font-size="9" fill="#7d8590" letter-spacing="3" font-family="'Courier New', monospace">SKILLS</text>
-  <text x="300" y="366" text-anchor="middle" font-size="18" font-weight="bold" fill="#f0f6fc">10</text>
-  <text x="300" y="380" text-anchor="middle" font-size="8" fill="#7d8590" letter-spacing="2" font-family="'Courier New', monospace">TOOLS</text>
+  <!-- SPOKES -->
+  <line x1="280" y1="315" x2="280" y2="117" stroke="#e34c26" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="403" y2="153" stroke="#2965f1" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="476" y2="265" stroke="#f7df1e" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="476" y2="365" stroke="#61dafb" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="403" y2="477" stroke="#68a063" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="280" y2="513" stroke="#47a248" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="157" y2="477" stroke="#888888" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="84"  y2="365" stroke="#f05032" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="84"  y2="265" stroke="#a259ff" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
+  <line x1="280" y1="315" x2="157" y2="153" stroke="#659ad2" stroke-width="1" stroke-dasharray="3 5" opacity="0.35"/>
 
-  <!-- ═══ SKILL NODES ═══ -->
+  <!-- CENTER CIRCLE -->
+  <circle cx="280" cy="315" r="50" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <text x="280" y="307" text-anchor="middle" font-size="8" fill="#7d8590" font-family="monospace" letter-spacing="2">SKILLS</text>
+  <text x="280" y="325" text-anchor="middle" font-size="22" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">10</text>
+  <text x="280" y="340" text-anchor="middle" font-size="8" fill="#7d8590" font-family="monospace" letter-spacing="2">TOOLS</text>
 
-  <!-- 0: HTML5 — top (300, 165) -->
-  <circle cx="300" cy="187" r="30" fill="#161b22" stroke="#e34c26" stroke-width="2"/>
-  <text x="300" y="183" text-anchor="middle" font-size="14" fill="#e34c26" font-weight="bold">&lt;/&gt;</text>
-  <text x="300" y="196" text-anchor="middle" font-size="7.5" fill="#e34c26" opacity="0.7">HTML5</text>
-  <text x="300" y="225" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">HTML5</text>
+  <!-- NODE 0 — HTML5 (top) -->
+  <circle cx="280" cy="117" r="32" fill="#161b22" stroke="#e34c26" stroke-width="2.5"/>
+  <text x="280" y="112" text-anchor="middle" font-size="12" font-weight="bold" fill="#e34c26" font-family="monospace">&lt;/&gt;</text>
+  <text x="280" y="126" text-anchor="middle" font-size="8" fill="#e34c26" font-family="monospace">HTML5</text>
+  <text x="280" y="160" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">HTML5</text>
 
-  <!-- 1: CSS3 — top-right (412, 203) -->
-  <circle cx="412" cy="203" r="30" fill="#161b22" stroke="#2965f1" stroke-width="2"/>
-  <text x="412" y="199" text-anchor="middle" font-size="13" fill="#2965f1" font-weight="bold">{ }</text>
-  <text x="412" y="212" text-anchor="middle" font-size="7.5" fill="#2965f1" opacity="0.7">CSS3</text>
-  <text x="412" y="241" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">CSS3</text>
+  <!-- NODE 1 — CSS3 (top-right) -->
+  <circle cx="403" cy="153" r="32" fill="#161b22" stroke="#2965f1" stroke-width="2.5"/>
+  <text x="403" y="148" text-anchor="middle" font-size="12" font-weight="bold" fill="#2965f1" font-family="monospace">{ }</text>
+  <text x="403" y="162" text-anchor="middle" font-size="8" fill="#2965f1" font-family="monospace">CSS3</text>
+  <text x="443" y="195" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">CSS3</text>
 
-  <!-- 2: JavaScript — right (481, 297) -->
-  <circle cx="481" cy="297" r="30" fill="#161b22" stroke="#f7df1e" stroke-width="2"/>
-  <text x="481" y="293" text-anchor="middle" font-size="13" fill="#f7df1e" font-weight="bold">JS</text>
-  <text x="481" y="306" text-anchor="middle" font-size="7.5" fill="#f7df1e" opacity="0.7">ES6+</text>
-  <text x="481" y="335" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">JavaScript</text>
+  <!-- NODE 2 — JavaScript (right) -->
+  <circle cx="476" cy="265" r="32" fill="#161b22" stroke="#f7df1e" stroke-width="2.5"/>
+  <text x="476" y="260" text-anchor="middle" font-size="14" font-weight="bold" fill="#f7df1e" font-family="monospace">JS</text>
+  <text x="476" y="275" text-anchor="middle" font-size="8" fill="#f7df1e" font-family="monospace">ES6+</text>
+  <text x="524" y="272" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">JS</text>
 
-  <!-- 3: React — bottom-right (481, 413) -->
-  <circle cx="481" cy="413" r="30" fill="#161b22" stroke="#61dafb" stroke-width="2"/>
-  <text x="481" y="409" text-anchor="middle" font-size="13" fill="#61dafb" font-weight="bold">⚛</text>
-  <text x="481" y="422" text-anchor="middle" font-size="7.5" fill="#61dafb" opacity="0.7">v18</text>
-  <text x="481" y="451" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">React</text>
+  <!-- NODE 3 — React (lower-right) -->
+  <circle cx="476" cy="365" r="32" fill="#161b22" stroke="#61dafb" stroke-width="2.5"/>
+  <text x="476" y="360" text-anchor="middle" font-size="14" font-weight="bold" fill="#61dafb" font-family="sans-serif">*</text>
+  <text x="476" y="375" text-anchor="middle" font-size="8" fill="#61dafb" font-family="monospace">React</text>
+  <text x="525" y="372" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">React</text>
 
-  <!-- 4: Node.js — lower-right (412, 507) -->
-  <circle cx="412" cy="507" r="30" fill="#161b22" stroke="#68a063" stroke-width="2"/>
-  <text x="412" y="503" text-anchor="middle" font-size="11" fill="#68a063" font-weight="bold">⬡</text>
-  <text x="412" y="516" text-anchor="middle" font-size="7.5" fill="#68a063" opacity="0.7">node</text>
-  <text x="412" y="545" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">Node.js</text>
+  <!-- NODE 4 — Node.js (lower-right diagonal) -->
+  <circle cx="403" cy="477" r="32" fill="#161b22" stroke="#68a063" stroke-width="2.5"/>
+  <text x="403" y="472" text-anchor="middle" font-size="13" font-weight="bold" fill="#68a063" font-family="monospace">N</text>
+  <text x="403" y="486" text-anchor="middle" font-size="8" fill="#68a063" font-family="monospace">Node</text>
+  <text x="403" y="520" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">Node.js</text>
 
-  <!-- 5: MongoDB — bottom (300, 543) -->
-  <circle cx="300" cy="543" r="30" fill="#161b22" stroke="#47a248" stroke-width="2"/>
-  <text x="300" y="539" text-anchor="middle" font-size="13" fill="#47a248" font-weight="bold">🍃</text>
-  <text x="300" y="552" text-anchor="middle" font-size="7.5" fill="#47a248" opacity="0.7">DB</text>
-  <text x="300" y="581" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">MongoDB</text>
+  <!-- NODE 5 — MongoDB (bottom) -->
+  <circle cx="280" cy="513" r="32" fill="#161b22" stroke="#47a248" stroke-width="2.5"/>
+  <text x="280" y="508" text-anchor="middle" font-size="13" font-weight="bold" fill="#47a248" font-family="monospace">M</text>
+  <text x="280" y="522" text-anchor="middle" font-size="8" fill="#47a248" font-family="monospace">Mongo</text>
+  <text x="280" y="556" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">MongoDB</text>
 
-  <!-- 6: Express — lower-left (188, 507) -->
-  <circle cx="188" cy="507" r="30" fill="#161b22" stroke="#8a8a8a" stroke-width="2"/>
-  <text x="188" y="503" text-anchor="middle" font-size="10" fill="#c9d1d9" font-weight="bold">EXP</text>
-  <text x="188" y="516" text-anchor="middle" font-size="7.5" fill="#8a8a8a" opacity="0.7">v4</text>
-  <text x="188" y="545" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">Express</text>
+  <!-- NODE 6 — Express (lower-left diagonal) -->
+  <circle cx="157" cy="477" r="32" fill="#161b22" stroke="#888888" stroke-width="2.5"/>
+  <text x="157" y="472" text-anchor="middle" font-size="10" font-weight="bold" fill="#c9d1d9" font-family="monospace">EX</text>
+  <text x="157" y="486" text-anchor="middle" font-size="8" fill="#888888" font-family="monospace">Express</text>
+  <text x="157" y="520" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">Express</text>
 
-  <!-- 7: Git — left (119, 413) -->
-  <circle cx="119" cy="413" r="30" fill="#161b22" stroke="#f05032" stroke-width="2"/>
-  <text x="119" y="409" text-anchor="middle" font-size="13" fill="#f05032" font-weight="bold">⎇</text>
-  <text x="119" y="422" text-anchor="middle" font-size="7.5" fill="#f05032" opacity="0.7">VCS</text>
-  <text x="119" y="451" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">Git</text>
+  <!-- NODE 7 — Git (left) -->
+  <circle cx="84" cy="365" r="32" fill="#161b22" stroke="#f05032" stroke-width="2.5"/>
+  <text x="84" y="360" text-anchor="middle" font-size="11" font-weight="bold" fill="#f05032" font-family="monospace">GIT</text>
+  <text x="84" y="374" text-anchor="middle" font-size="8" fill="#f05032" font-family="monospace">VCS</text>
+  <text x="36" y="372" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">Git</text>
 
-  <!-- 8: Figma — upper-left (119, 297) -->
-  <circle cx="119" cy="297" r="30" fill="#161b22" stroke="#a259ff" stroke-width="2"/>
-  <text x="119" y="293" text-anchor="middle" font-size="13" fill="#a259ff" font-weight="bold">✦</text>
-  <text x="119" y="306" text-anchor="middle" font-size="7.5" fill="#a259ff" opacity="0.7">UI/UX</text>
-  <text x="119" y="268" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">Figma</text>
+  <!-- NODE 8 — Figma (upper-left) -->
+  <circle cx="84" cy="265" r="32" fill="#161b22" stroke="#a259ff" stroke-width="2.5"/>
+  <text x="84" y="260" text-anchor="middle" font-size="13" font-weight="bold" fill="#a259ff" font-family="sans-serif">F</text>
+  <text x="84" y="274" text-anchor="middle" font-size="8" fill="#a259ff" font-family="monospace">UI/UX</text>
+  <text x="34" y="272" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">Figma</text>
 
-  <!-- 9: C/C++ — top-left (188, 203) -->
-  <circle cx="188" cy="203" r="30" fill="#161b22" stroke="#659ad2" stroke-width="2"/>
-  <text x="188" y="199" text-anchor="middle" font-size="11" fill="#659ad2" font-weight="bold">C++</text>
-  <text x="188" y="212" text-anchor="middle" font-size="7.5" fill="#659ad2" opacity="0.7">STL</text>
-  <text x="188" y="241" text-anchor="middle" font-size="9" fill="#f0f6fc" font-weight="bold">C / C++</text>
+  <!-- NODE 9 — C/C++ (top-left diagonal) -->
+  <circle cx="157" cy="153" r="32" fill="#161b22" stroke="#659ad2" stroke-width="2.5"/>
+  <text x="157" y="148" text-anchor="middle" font-size="11" font-weight="bold" fill="#659ad2" font-family="monospace">C++</text>
+  <text x="157" y="162" text-anchor="middle" font-size="8" fill="#659ad2" font-family="monospace">STL</text>
+  <text x="117" y="195" text-anchor="middle" font-size="10" font-weight="bold" fill="#f0f6fc" font-family="sans-serif">C / C++</text>
 
-  <!-- Bottom caption -->
-  <text x="300" y="620" text-anchor="middle" font-size="9" fill="#484f58" letter-spacing="2" font-family="'Courier New', monospace">het.roy.cg@gmail.com</text>
+  <!-- Bottom email -->
+  <text x="280" y="578" text-anchor="middle" font-size="8" fill="#484f58" font-family="monospace" letter-spacing="1">het.roy.cg@gmail.com</text>
 
 </svg>
