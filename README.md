@@ -35,5 +35,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 </p>
-
-<div class="tenor-gif-embed" data-postid="13307647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">Soulja Boy Pepe Sticker</a>from <a href="https://tenor.com/search/soulja+boy-stickers">Soulja Boy Stickers</a></div> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" width="100%"/>
+</picture>
