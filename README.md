@@ -263,12 +263,20 @@ const HetRoy = {
   </g>
 
   <!-- Git  slot 6 → 270° -->
-  <g filter="url(#glo)">
+  <g>
     <animateTransform attributeName="transform" type="rotate"
       from="270 230 230" to="630 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#F05032" stroke-width="2.2"/>
-    <text x="424" y="235" text-anchor="middle"
-          fill="#F05032" font-family="monospace" font-size="12" font-weight="bold">GIT</text>
+    <circle cx="424" cy="230" r="27"
+      fill="#110400"
+      stroke="#F05032"
+      stroke-width="2.2"
+      filter="url(#glo)"/>
+    <text x="424" y="235"
+          text-anchor="middle"
+          fill="#F05032"
+          font-family="monospace"
+          font-size="12"
+          font-weight="bold">GIT</text>
   </g>
 
   <!-- GitHub  slot 7 → 315° -->
