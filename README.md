@@ -6,13 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2fff&height=200&section=header&text=Het%20Roy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Hardcore%20Problem%20Solver&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Full+Stack+Developer+in+the+Making;💡+Turning+Ideas+Into+Digital+Reality;⚡+Hardcore+Problem+Solver+%7C+Code+Craftsman" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <!-- Social Badges Row -->
 <p align="center">
   <a href="mailto:het.roy.cg@gmail.com">
