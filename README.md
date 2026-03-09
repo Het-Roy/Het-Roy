@@ -93,7 +93,7 @@ const HetRoy = {
 
 <br/>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW84MW1wa2gzcXpidG1tOHdvanQ3Y3QyZ3JjNDR0eG12MHM3cWRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="320" style="border-radius:20px" alt="Dev Animation"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" style="border-radius:20px" alt="Dev Animation"/>
 
 <br/><br/>
 
@@ -120,181 +120,220 @@ const HetRoy = {
 ## ⚡ Tech Arsenal
 
 <!-- ANIMATED TECH ORBIT -->
+<!--
+  FIX: Static `transform` on <g> is OVERRIDDEN (not added to) by animateTransform in
+  GitHub's SVG renderer. The correct approach: NO static transform on any <g>.
+  Each planet's start angle is baked into the animateTransform from/to values only.
+  All planets share the same dur so they maintain evenly-spaced positions throughout.
+  Outer orbit: CW 22s  — from="startAngle 230 230" to="startAngle+360 230 230"
+  Inner orbit: CCW 14s — from="startAngle 230 230" to="startAngle-360 230 230"
+-->
 <svg width="460" height="460" viewBox="0 0 460 460" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Filters -->
-    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glo" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="neon2" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glo2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="softglow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-    <!-- Gradients -->
-    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0d1117"/>
+    <radialGradient id="bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#020408"/>
     </radialGradient>
-    <radialGradient id="hubGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#111827"/>
+    <radialGradient id="hub" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#111827"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </radialGradient>
-    <linearGradient id="orb1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.8"/>
+    <linearGradient id="ring1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#00ffcc" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#7b2fff" stop-opacity="0.1"/>
     </linearGradient>
-    <linearGradient id="orb2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7b2fff" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0.1"/>
-    </linearGradient>
-    <linearGradient id="orb3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff6b6b" stop-opacity="0.5"/>
+    <linearGradient id="ring2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#7b2fff" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#00ffcc" stop-opacity="0.1"/>
     </linearGradient>
   </defs>
 
-  <!-- Dark background -->
-  <circle cx="230" cy="230" r="230" fill="url(#bgGrad)"/>
+  <!-- Background -->
+  <circle cx="230" cy="230" r="230" fill="url(#bg)"/>
 
   <!-- Starfield -->
-  <g opacity="0.6">
-    <circle cx="30" cy="55" r="1.4" fill="#00ffcc"/><circle cx="415" cy="40" r="1.8" fill="#7b2fff"/>
-    <circle cx="80" cy="380" r="1.2" fill="#00ffcc"/><circle cx="430" cy="310" r="1" fill="#fff"/>
-    <circle cx="18" cy="230" r="1.8" fill="#fff"/><circle cx="442" cy="200" r="1.2" fill="#00ffcc"/>
-    <circle cx="200" cy="10" r="1" fill="#7b2fff"/><circle cx="340" cy="445" r="1.5" fill="#fff"/>
-    <circle cx="140" cy="75" r="1" fill="#fff"/><circle cx="355" cy="65" r="1.3" fill="#00ffcc"/>
-    <circle cx="55" cy="300" r="1.5" fill="#7b2fff"/><circle cx="420" cy="140" r="1" fill="#fff"/>
-    <circle cx="400" cy="240" r="1.2" fill="#ff6b6b"/><circle cx="45" cy="150" r="1.1" fill="#7b2fff"/>
-    <circle cx="260" cy="20" r="1.3" fill="#00ffcc"/><circle cx="110" cy="430" r="1" fill="#fff"/>
+  <g opacity="0.55">
+    <circle cx="30"  cy="55"  r="1.3" fill="#00ffcc"/>
+    <circle cx="415" cy="40"  r="1.7" fill="#7b2fff"/>
+    <circle cx="80"  cy="380" r="1.2" fill="#00ffcc"/>
+    <circle cx="430" cy="310" r="1.0" fill="#ffffff"/>
+    <circle cx="18"  cy="230" r="1.7" fill="#ffffff"/>
+    <circle cx="442" cy="200" r="1.2" fill="#00ffcc"/>
+    <circle cx="200" cy="10"  r="1.0" fill="#7b2fff"/>
+    <circle cx="340" cy="445" r="1.5" fill="#ffffff"/>
+    <circle cx="140" cy="75"  r="1.0" fill="#ffffff"/>
+    <circle cx="355" cy="65"  r="1.3" fill="#00ffcc"/>
+    <circle cx="55"  cy="300" r="1.4" fill="#7b2fff"/>
+    <circle cx="420" cy="140" r="1.0" fill="#ffffff"/>
+    <circle cx="400" cy="240" r="1.2" fill="#ff6b6b"/>
+    <circle cx="45"  cy="150" r="1.1" fill="#7b2fff"/>
+    <circle cx="260" cy="20"  r="1.2" fill="#00ffcc"/>
+    <circle cx="110" cy="430" r="1.0" fill="#ffffff"/>
   </g>
 
-  <!-- Outer ring decorative dashes -->
-  <circle cx="230" cy="230" r="194" fill="none" stroke="url(#orb1)" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.9"/>
-  <!-- Mid ring -->
-  <circle cx="230" cy="230" r="138" fill="none" stroke="url(#orb2)" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.7"/>
-  <!-- Inner ring -->
-  <circle cx="230" cy="230" r="84" fill="none" stroke="#00ffcc" stroke-width="0.7" opacity="0.35"/>
+  <!-- Orbit track rings -->
+  <circle cx="230" cy="230" r="194" fill="none" stroke="url(#ring1)" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.85"/>
+  <circle cx="230" cy="230" r="138" fill="none" stroke="url(#ring2)" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.70"/>
+  <circle cx="230" cy="230" r="84"  fill="none" stroke="#00ffcc"    stroke-width="0.7" opacity="0.30"/>
 
-  <!-- Hub glow halos -->
-  <circle cx="230" cy="230" r="74" fill="none" stroke="#00ffcc" stroke-width="2.5" opacity="0.5" filter="url(#neon)"/>
-  <circle cx="230" cy="230" r="68" fill="none" stroke="#7b2fff" stroke-width="1.5" opacity="0.4"/>
+  <!-- Hub glow rings -->
+  <circle cx="230" cy="230" r="74" fill="none" stroke="#00ffcc" stroke-width="2.5" opacity="0.50" filter="url(#glo)"/>
+  <circle cx="230" cy="230" r="68" fill="none" stroke="#7b2fff" stroke-width="1.4" opacity="0.40"/>
 
-  <!-- Center hub body -->
-  <circle cx="230" cy="230" r="64" fill="url(#hubGrad)"/>
+  <!-- Hub body -->
+  <circle cx="230" cy="230" r="64" fill="url(#hub)"/>
   <circle cx="230" cy="230" r="64" fill="none" stroke="#00ffcc" stroke-width="1.8" opacity="0.95"/>
 
-  <!-- Hub text -->
-  <text x="230" y="218" text-anchor="middle" fill="#00ffcc" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" font-weight="bold" letter-spacing="3" opacity="0.9">TECH</text>
-  <text x="230" y="233" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" font-weight="bold" letter-spacing="3">STACK</text>
-  <text x="230" y="252" text-anchor="middle" fill="#7b2fff" font-family="monospace" font-size="20">⚡</text>
+  <!-- Hub labels -->
+  <text x="230" y="218" text-anchor="middle" fill="#00ffcc"
+        font-family="'Courier New',monospace" font-size="11" font-weight="bold"
+        letter-spacing="3" opacity="0.9">TECH</text>
+  <text x="230" y="234" text-anchor="middle" fill="#ffffff"
+        font-family="'Courier New',monospace" font-size="11" font-weight="bold"
+        letter-spacing="3">STACK</text>
+  <text x="230" y="252" text-anchor="middle" fill="#7b2fff"
+        font-family="monospace" font-size="19">⚡</text>
 
-  <!-- ╔═══════════════════════════════════════════════════════╗ -->
-  <!-- ║  OUTER ORBIT — 8 techs @ r=194  CW  22s             ║ -->
-  <!-- ╚═══════════════════════════════════════════════════════╝ -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!--  OUTER ORBIT  8 planets  r=194  clockwise  22 s               -->
+  <!--  Planet fixed point: cx=424 cy=230  (230+194=424)             -->
+  <!--  Each planet's from angle = its slot * 45  (360/8=45)         -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <!-- JavaScript — 0° -->
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 230 230" to="360 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#111100" stroke="#F7DF1E" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#F7DF1E" font-family="monospace" font-size="12" font-weight="bold">JS</text>
+  <!-- JS  slot 0 →   0° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 230 230" to="360 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#111100" stroke="#F7DF1E" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#F7DF1E" font-family="monospace" font-size="12" font-weight="bold">JS</text>
   </g>
 
-  <!-- HTML — 45° -->
-  <g transform="rotate(45,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="45 230 230" to="405 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#E34F26" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#E34F26" font-family="monospace" font-size="11" font-weight="bold">HTML</text>
+  <!-- HTML  slot 1 →  45° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="45 230 230" to="405 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#E34F26" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#E34F26" font-family="monospace" font-size="11" font-weight="bold">HTML</text>
   </g>
 
-  <!-- CSS — 90° -->
-  <g transform="rotate(90,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="90 230 230" to="450 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#000810" stroke="#1572B6" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#1572B6" font-family="monospace" font-size="12" font-weight="bold">CSS</text>
+  <!-- CSS  slot 2 →  90° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="90 230 230" to="450 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#000810" stroke="#1572B6" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#1572B6" font-family="monospace" font-size="12" font-weight="bold">CSS</text>
   </g>
 
-  <!-- React — 135° -->
-  <g transform="rotate(135,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="135 230 230" to="495 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#001219" stroke="#61DAFB" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#61DAFB" font-family="monospace" font-size="10" font-weight="bold">REACT</text>
+  <!-- React  slot 3 → 135° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="135 230 230" to="495 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#001219" stroke="#61DAFB" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#61DAFB" font-family="monospace" font-size="10" font-weight="bold">REACT</text>
   </g>
 
-  <!-- Node.js — 180° -->
-  <g transform="rotate(180,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="180 230 230" to="540 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#001200" stroke="#339933" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#339933" font-family="monospace" font-size="10" font-weight="bold">NODE</text>
+  <!-- Node.js  slot 4 → 180° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="180 230 230" to="540 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#001200" stroke="#339933" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#339933" font-family="monospace" font-size="10" font-weight="bold">NODE</text>
   </g>
 
-  <!-- MongoDB — 225° -->
-  <g transform="rotate(225,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="225 230 230" to="585 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#001200" stroke="#47A248" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#47A248" font-family="monospace" font-size="9" font-weight="bold">MONGO</text>
+  <!-- MongoDB  slot 5 → 225° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="225 230 230" to="585 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#001200" stroke="#47A248" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#47A248" font-family="monospace" font-size="9" font-weight="bold">MONGO</text>
   </g>
 
-  <!-- Git — 270° -->
-  <g transform="rotate(270,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="270 230 230" to="630 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#F05032" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#F05032" font-family="monospace" font-size="12" font-weight="bold">GIT</text>
+  <!-- Git  slot 6 → 270° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="270 230 230" to="630 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#F05032" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#F05032" font-family="monospace" font-size="12" font-weight="bold">GIT</text>
   </g>
 
-  <!-- GitHub — 315° -->
-  <g transform="rotate(315,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="315 230 230" to="675 230 230" dur="22s" repeatCount="indefinite"/>
-    <circle cx="424" cy="230" r="27" fill="#0d0d0d" stroke="#e0e0e0" stroke-width="2.2" filter="url(#softglow)"/>
-    <text x="424" y="235" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="9" font-weight="bold">GITHUB</text>
+  <!-- GitHub  slot 7 → 315° -->
+  <g filter="url(#glo)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="315 230 230" to="675 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#0d0d0d" stroke="#e0e0e0" stroke-width="2.2"/>
+    <text x="424" y="235" text-anchor="middle"
+          fill="#e0e0e0" font-family="monospace" font-size="9" font-weight="bold">GITHUB</text>
   </g>
 
-  <!-- ╔═══════════════════════════════════════════════════════╗ -->
-  <!-- ║  INNER ORBIT — 5 techs @ r=138  CCW  14s            ║ -->
-  <!-- ╚═══════════════════════════════════════════════════════╝ -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!--  INNER ORBIT  5 planets  r=138  counter-clockwise  14 s       -->
+  <!--  Planet fixed point: cx=368 cy=230  (230+138=368)             -->
+  <!--  Each planet's from angle = its slot * 72  (360/5=72)         -->
+  <!--  CCW → to = from - 360                                        -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <!-- C++ — 0° -->
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 230 230" to="-360 230 230" dur="14s" repeatCount="indefinite"/>
-    <circle cx="368" cy="230" r="22" fill="#000a1a" stroke="#00599C" stroke-width="2" filter="url(#neon)"/>
-    <text x="368" y="235" text-anchor="middle" fill="#00599C" font-family="monospace" font-size="11" font-weight="bold">C++</text>
+  <!-- C++  slot 0 →   0° -->
+  <g filter="url(#glo2)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 230 230" to="-360 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#000a1a" stroke="#00599C" stroke-width="2"/>
+    <text x="368" y="235" text-anchor="middle"
+          fill="#00599C" font-family="monospace" font-size="11" font-weight="bold">C++</text>
   </g>
 
-  <!-- Python — 72° -->
-  <g transform="rotate(72,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="72 230 230" to="-288 230 230" dur="14s" repeatCount="indefinite"/>
-    <circle cx="368" cy="230" r="22" fill="#000d1a" stroke="#3776AB" stroke-width="2" filter="url(#neon)"/>
-    <text x="368" y="235" text-anchor="middle" fill="#3776AB" font-family="monospace" font-size="10" font-weight="bold">PY</text>
+  <!-- Python  slot 1 →  72° -->
+  <g filter="url(#glo2)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="72 230 230" to="-288 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#000d1a" stroke="#3776AB" stroke-width="2"/>
+    <text x="368" y="235" text-anchor="middle"
+          fill="#3776AB" font-family="monospace" font-size="10" font-weight="bold">PY</text>
   </g>
 
-  <!-- Express — 144° -->
-  <g transform="rotate(144,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="144 230 230" to="-216 230 230" dur="14s" repeatCount="indefinite"/>
-    <circle cx="368" cy="230" r="22" fill="#111111" stroke="#cccccc" stroke-width="2" filter="url(#neon)"/>
-    <text x="368" y="235" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="8" font-weight="bold">EXP.JS</text>
+  <!-- Express  slot 2 → 144° -->
+  <g filter="url(#glo2)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="144 230 230" to="-216 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#111111" stroke="#cccccc" stroke-width="2"/>
+    <text x="368" y="235" text-anchor="middle"
+          fill="#cccccc" font-family="monospace" font-size="8" font-weight="bold">EXP.JS</text>
   </g>
 
-  <!-- TypeScript — 216° -->
-  <g transform="rotate(216,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="216 230 230" to="-144 230 230" dur="14s" repeatCount="indefinite"/>
-    <circle cx="368" cy="230" r="22" fill="#000819" stroke="#3178C6" stroke-width="2" filter="url(#neon)"/>
-    <text x="368" y="235" text-anchor="middle" fill="#3178C6" font-family="monospace" font-size="10" font-weight="bold">TS</text>
+  <!-- TypeScript  slot 3 → 216° -->
+  <g filter="url(#glo2)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="216 230 230" to="-144 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#000819" stroke="#3178C6" stroke-width="2"/>
+    <text x="368" y="235" text-anchor="middle"
+          fill="#3178C6" font-family="monospace" font-size="10" font-weight="bold">TS</text>
   </g>
 
-  <!-- Figma — 288° -->
-  <g transform="rotate(288,230,230)">
-    <animateTransform attributeName="transform" type="rotate" from="288 230 230" to="-72 230 230" dur="14s" repeatCount="indefinite"/>
-    <circle cx="368" cy="230" r="22" fill="#1a000e" stroke="#F24E1E" stroke-width="2" filter="url(#neon)"/>
-    <text x="368" y="235" text-anchor="middle" fill="#F24E1E" font-family="monospace" font-size="9" font-weight="bold">FIGMA</text>
+  <!-- Figma  slot 4 → 288° -->
+  <g filter="url(#glo2)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="288 230 230" to="-72 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#1a000e" stroke="#F24E1E" stroke-width="2"/>
+    <text x="368" y="235" text-anchor="middle"
+          fill="#F24E1E" font-family="monospace" font-size="9" font-weight="bold">FIGMA</text>
   </g>
 
-  <!-- Outer border -->
-  <circle cx="230" cy="230" r="226" fill="none" stroke="#00ffcc" stroke-width="0.6" opacity="0.2"/>
+  <!-- Outer subtle border -->
+  <circle cx="230" cy="230" r="226" fill="none" stroke="#00ffcc" stroke-width="0.5" opacity="0.18"/>
 </svg>
 
 </div>
