@@ -93,7 +93,7 @@ const HetRoy = {
 
 <br/>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" style="border-radius:20px" alt="Dev Animation"/>
+<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW84MW1wa2gzcXpidG1tOHdvanQ3Y3QyZ3JjNDR0eG12MHM3cWRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)" width="320" style="border-radius:20px" alt="Dev Animation"/>
 
 <br/><br/>
 
