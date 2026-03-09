@@ -1,277 +1,396 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  HET ROY — GITHUB PROFILE README                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              HET ROY  ·  GITHUB PROFILE README  v3.0              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════════ HERO BANNER ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Het%20Roy&fontSize=80&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50&stroke=00d4ff&strokeWidth=2" />
+<!-- ░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░ -->
 
-<!-- ══════════════════ TYPING SVG ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Het%20Roy&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Builder&descAlignY=62&descSize=19&animation=fadeIn&fontAlign=50&stroke=00ffcc&strokeWidth=3&reversal=false" />
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░░░░░ -->
+
 <br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=Hey+there!+I'm+Het+Roy+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Problem+Solver+%7C+UI+Lover;Code.+Create.+Conquer.+%E2%9A%A1" alt="Typing SVG" />
-</a>
 
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&multiline=false&random=false&width=700&height=52&lines=Hey%2C+I'm+Het+Roy+%F0%9F%91%8B;Full+Stack+Dev+in+the+Making+%F0%9F%9A%80;MERN+Stack+%7C+Clean+UI+%7C+Fast+Code+%E2%9A%A1;Turning+Ideas+into+Digital+Reality+%F0%9F%8C%90;Always+Learning.+Always+Building.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<!-- ══════════════════ SOCIAL BADGES ══════════════════ -->
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░  SOCIAL BADGES  ░░░░░░░░░░░░░░░░░░░░░ -->
+
 <p>
   <a href="mailto:het.roy.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="https://github.com/Het-Roy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-%2300FFCC.svg?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" />
   </a>
 </p>
 
-<!-- Profile Views + Followers + Stars -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Het-Roy&label=Profile+Views&color=00d4ff&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Het-Roy?label=Followers&style=flat-square&color=7b2fff&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Het-Roy&label=👁️+Profile+Views&color=00ffcc&style=flat-square&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Het-Roy?label=Followers&style=flat-square&color=7b2fff&labelColor=0d1117&logo=github" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffcc?style=flat-square&labelColor=0d1117&logo=statuspage" />
 </p>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                    -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                            ABOUT ME                                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header&reversal=false" width="100%"/>
 
 <table align="center" width="95%">
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+<br/>
 
-```typescript
-const hetRoy = {
-  role     : "Aspiring Full Stack Developer",
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;`whoami`
+
+```ts
+const HetRoy = {
+  title    : "Aspiring Full Stack Developer",
   location : "India 🇮🇳",
   stack    : ["React", "Node.js", "Express", "MongoDB"],
   learning : ["TypeScript", "Next.js", "Docker"],
-  hobbies  : ["Coding 💻", "UI Design 🎨",
-               "Problem Solving 🧩"],
+  hobbies  : [
+    "Coding 💻",
+    "UI Design 🎨",
+    "Problem Solving 🧩",
+    "Open Source 🌍"
+  ],
   contact  : "het.roy.cg@gmail.com",
-  open_to  : "Internships & Collaborations 🤝",
-  motto    : "Code. Create. Conquer. 🚀"
+  openTo   : "Internships & Collaborations 🤝",
+  motto    : "Code. Create. Conquer. ⚡"
 };
 ```
 
 <br/>
 
-🔭 &nbsp;Building projects with the **MERN Stack**  
-🌱 &nbsp;Deepening skills in **React & Node.js**  
-🎯 &nbsp;Goal: **World-class Full Stack Developer**  
-💡 &nbsp;Love crafting clean, performant UIs  
-⚡ &nbsp;I solve bugs faster than I create them *(sometimes)*  
-📫 &nbsp;**het.roy.cg@gmail.com**
+| | |
+|---|---|
+| 🔭 | Building with the **MERN Stack** |
+| 🌱 | Levelling up in **React & TypeScript** |
+| 🎯 | Goal: **World-class Full Stack Developer** |
+| 💡 | Love crafting **clean, performant UIs** |
+| ⚡ | Solving bugs faster than creating them *(most of the time)* |
+| 📫 | **het.roy.cg@gmail.com** |
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="44%" align="center" valign="middle">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="340" alt="Coding GIF" style="border-radius: 16px;" />
+<br/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" style="border-radius:20px" alt="Dev Animation"/>
 
 <br/><br/>
 
-<!-- Mini stats pills -->
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00d4ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-7b2fff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎯%20Focus-Full%20Stack%20Dev-00ffcc?style=flat-square&labelColor=0d1117"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🚀%20Available-Hire%20Me!-7b2fff?style=flat-square&labelColor=0d1117"/>
+
+<br/>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK ORBIT SVG                             -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## ⚡ Tech Arsenal
 
-<!-- Animated Orbit SVG -->
-<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+<!-- ANIMATED TECH ORBIT -->
+<svg width="460" height="460" viewBox="0 0 460 460" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow1" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
+    <!-- Filters -->
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <filter id="glow2" x="-40%" y="-40%" width="180%" height="180%">
+    <filter id="neon2" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <radialGradient id="bgR" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#010409"/>
+    <filter id="softglow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Gradients -->
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#020408"/>
     </radialGradient>
-    <radialGradient id="hubR" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <radialGradient id="hubGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </radialGradient>
-    <linearGradient id="ring1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.7"/>
-      <stop offset="100%" style="stop-color:#7b2fff;stop-opacity:0.1"/>
+    <linearGradient id="orb1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7b2fff" stop-opacity="0.1"/>
     </linearGradient>
-    <linearGradient id="ring2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#7b2fff;stop-opacity:0.7"/>
-      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0.1"/>
+    <linearGradient id="orb2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7b2fff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="orb3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b6b" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0.1"/>
     </linearGradient>
   </defs>
 
-  <!-- Background circle -->
-  <circle cx="210" cy="210" r="210" fill="url(#bgR)"/>
+  <!-- Dark background -->
+  <circle cx="230" cy="230" r="230" fill="url(#bgGrad)"/>
 
-  <!-- Star field -->
-  <g opacity="0.5">
-    <circle cx="40" cy="55" r="1.2" fill="#00d4ff"/><circle cx="370" cy="35" r="1.8" fill="#7b2fff"/>
-    <circle cx="90" cy="340" r="1.2" fill="#00d4ff"/><circle cx="390" cy="300" r="1" fill="#fff"/>
-    <circle cx="22" cy="210" r="1.8" fill="#fff"/><circle cx="398" cy="190" r="1.2" fill="#00d4ff"/>
-    <circle cx="180" cy="15" r="1" fill="#7b2fff"/><circle cx="300" cy="395" r="1.5" fill="#fff"/>
-    <circle cx="130" cy="80" r="1" fill="#fff"/><circle cx="320" cy="70" r="1.2" fill="#00d4ff"/>
-    <circle cx="60" cy="280" r="1.5" fill="#7b2fff"/><circle cx="380" cy="130" r="1" fill="#fff"/>
-  </g>
-
-  <!-- Orbit rings -->
-  <circle cx="210" cy="210" r="165" fill="none" stroke="url(#ring1)" stroke-width="1.2" stroke-dasharray="5 9" opacity="0.8"/>
-  <circle cx="210" cy="210" r="118" fill="none" stroke="url(#ring2)" stroke-width="1.2" stroke-dasharray="5 9" opacity="0.6"/>
-  <circle cx="210" cy="210" r="72" fill="none" stroke="#00d4ff" stroke-width="0.6" opacity="0.3"/>
-
-  <!-- Hub glow ring -->
-  <circle cx="210" cy="210" r="60" fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.6" filter="url(#glow1)"/>
-
-  <!-- Center hub -->
-  <circle cx="210" cy="210" r="56" fill="url(#hubR)"/>
-  <circle cx="210" cy="210" r="56" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.9"/>
-  <circle cx="210" cy="210" r="48" fill="none" stroke="#7b2fff" stroke-width="0.8" opacity="0.5"/>
-  <text x="210" y="200" text-anchor="middle" fill="#00d4ff" font-family="'Courier New',monospace" font-size="13" font-weight="bold" letter-spacing="2">MERN</text>
-  <text x="210" y="216" text-anchor="middle" fill="#ffffff" font-family="'Courier New',monospace" font-size="10" opacity="0.8">STACK</text>
-  <text x="210" y="230" text-anchor="middle" fill="#7b2fff" font-family="monospace" font-size="18">⚡</text>
-
-  <!-- OUTER ORBIT — 7 techs @ r=165, clockwise 18s -->
-  <!-- JavaScript 0° -->
-  <g><animateTransform attributeName="transform" type="rotate" from="0 210 210" to="360 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#111100" stroke="#F7DF1E" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#F7DF1E" font-family="monospace" font-size="11" font-weight="bold">JS</text>
-  </g>
-  <!-- HTML 51° -->
-  <g transform="rotate(51,210,210)"><animateTransform attributeName="transform" type="rotate" from="51 210 210" to="411 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#110500" stroke="#E34F26" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#E34F26" font-family="monospace" font-size="10" font-weight="bold">HTML</text>
-  </g>
-  <!-- CSS 102° -->
-  <g transform="rotate(102,210,210)"><animateTransform attributeName="transform" type="rotate" from="102 210 210" to="462 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#000a14" stroke="#1572B6" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#1572B6" font-family="monospace" font-size="11" font-weight="bold">CSS</text>
-  </g>
-  <!-- React 153° -->
-  <g transform="rotate(153,210,210)"><animateTransform attributeName="transform" type="rotate" from="153 210 210" to="513 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#001219" stroke="#61DAFB" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#61DAFB" font-family="monospace" font-size="9" font-weight="bold">REACT</text>
-  </g>
-  <!-- Node 204° -->
-  <g transform="rotate(204,210,210)"><animateTransform attributeName="transform" type="rotate" from="204 210 210" to="564 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#001400" stroke="#339933" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#339933" font-family="monospace" font-size="9" font-weight="bold">NODE</text>
-  </g>
-  <!-- MongoDB 255° -->
-  <g transform="rotate(255,210,210)"><animateTransform attributeName="transform" type="rotate" from="255 210 210" to="615 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#001400" stroke="#47A248" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#47A248" font-family="monospace" font-size="8" font-weight="bold">MONGO</text>
-  </g>
-  <!-- Git 306° -->
-  <g transform="rotate(306,210,210)"><animateTransform attributeName="transform" type="rotate" from="306 210 210" to="666 210 210" dur="20s" repeatCount="indefinite"/>
-    <circle cx="375" cy="210" r="24" fill="#110500" stroke="#F05032" stroke-width="2" filter="url(#glow1)"/>
-    <text x="375" y="215" text-anchor="middle" fill="#F05032" font-family="monospace" font-size="11" font-weight="bold">GIT</text>
+  <!-- Starfield -->
+  <g opacity="0.6">
+    <circle cx="30" cy="55" r="1.4" fill="#00ffcc"/><circle cx="415" cy="40" r="1.8" fill="#7b2fff"/>
+    <circle cx="80" cy="380" r="1.2" fill="#00ffcc"/><circle cx="430" cy="310" r="1" fill="#fff"/>
+    <circle cx="18" cy="230" r="1.8" fill="#fff"/><circle cx="442" cy="200" r="1.2" fill="#00ffcc"/>
+    <circle cx="200" cy="10" r="1" fill="#7b2fff"/><circle cx="340" cy="445" r="1.5" fill="#fff"/>
+    <circle cx="140" cy="75" r="1" fill="#fff"/><circle cx="355" cy="65" r="1.3" fill="#00ffcc"/>
+    <circle cx="55" cy="300" r="1.5" fill="#7b2fff"/><circle cx="420" cy="140" r="1" fill="#fff"/>
+    <circle cx="400" cy="240" r="1.2" fill="#ff6b6b"/><circle cx="45" cy="150" r="1.1" fill="#7b2fff"/>
+    <circle cx="260" cy="20" r="1.3" fill="#00ffcc"/><circle cx="110" cy="430" r="1" fill="#fff"/>
   </g>
 
-  <!-- INNER ORBIT — 4 techs @ r=118, counter-clockwise 13s -->
-  <!-- Python 0° -->
-  <g><animateTransform attributeName="transform" type="rotate" from="0 210 210" to="-360 210 210" dur="13s" repeatCount="indefinite"/>
-    <circle cx="328" cy="210" r="20" fill="#000d1a" stroke="#3776AB" stroke-width="1.8" filter="url(#glow2)"/>
-    <text x="328" y="215" text-anchor="middle" fill="#3776AB" font-family="monospace" font-size="9" font-weight="bold">PY</text>
-  </g>
-  <!-- Figma 90° -->
-  <g transform="rotate(90,210,210)"><animateTransform attributeName="transform" type="rotate" from="90 210 210" to="-270 210 210" dur="13s" repeatCount="indefinite"/>
-    <circle cx="328" cy="210" r="20" fill="#1a000e" stroke="#F24E1E" stroke-width="1.8" filter="url(#glow2)"/>
-    <text x="328" y="215" text-anchor="middle" fill="#F24E1E" font-family="monospace" font-size="8" font-weight="bold">FIG</text>
-  </g>
-  <!-- C 180° -->
-  <g transform="rotate(180,210,210)"><animateTransform attributeName="transform" type="rotate" from="180 210 210" to="-180 210 210" dur="13s" repeatCount="indefinite"/>
-    <circle cx="328" cy="210" r="20" fill="#000a1a" stroke="#00599C" stroke-width="1.8" filter="url(#glow2)"/>
-    <text x="328" y="215" text-anchor="middle" fill="#00599C" font-family="monospace" font-size="13" font-weight="bold">C</text>
-  </g>
-  <!-- Express 270° -->
-  <g transform="rotate(270,210,210)"><animateTransform attributeName="transform" type="rotate" from="270 210 210" to="-90 210 210" dur="13s" repeatCount="indefinite"/>
-    <circle cx="328" cy="210" r="20" fill="#111111" stroke="#ffffff" stroke-width="1.8" filter="url(#glow2)"/>
-    <text x="328" y="215" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="7" font-weight="bold">EXP</text>
+  <!-- Outer ring decorative dashes -->
+  <circle cx="230" cy="230" r="194" fill="none" stroke="url(#orb1)" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.9"/>
+  <!-- Mid ring -->
+  <circle cx="230" cy="230" r="138" fill="none" stroke="url(#orb2)" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.7"/>
+  <!-- Inner ring -->
+  <circle cx="230" cy="230" r="84" fill="none" stroke="#00ffcc" stroke-width="0.7" opacity="0.35"/>
+
+  <!-- Hub glow halos -->
+  <circle cx="230" cy="230" r="74" fill="none" stroke="#00ffcc" stroke-width="2.5" opacity="0.5" filter="url(#neon)"/>
+  <circle cx="230" cy="230" r="68" fill="none" stroke="#7b2fff" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Center hub body -->
+  <circle cx="230" cy="230" r="64" fill="url(#hubGrad)"/>
+  <circle cx="230" cy="230" r="64" fill="none" stroke="#00ffcc" stroke-width="1.8" opacity="0.95"/>
+
+  <!-- Hub text -->
+  <text x="230" y="218" text-anchor="middle" fill="#00ffcc" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" font-weight="bold" letter-spacing="3" opacity="0.9">TECH</text>
+  <text x="230" y="233" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" font-weight="bold" letter-spacing="3">STACK</text>
+  <text x="230" y="252" text-anchor="middle" fill="#7b2fff" font-family="monospace" font-size="20">⚡</text>
+
+  <!-- ╔═══════════════════════════════════════════════════════╗ -->
+  <!-- ║  OUTER ORBIT — 8 techs @ r=194  CW  22s             ║ -->
+  <!-- ╚═══════════════════════════════════════════════════════╝ -->
+
+  <!-- JavaScript — 0° -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 230 230" to="360 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#111100" stroke="#F7DF1E" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#F7DF1E" font-family="monospace" font-size="12" font-weight="bold">JS</text>
   </g>
 
-  <!-- Outer glow border -->
-  <circle cx="210" cy="210" r="205" fill="none" stroke="#00d4ff" stroke-width="0.8" opacity="0.25"/>
+  <!-- HTML — 45° -->
+  <g transform="rotate(45,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="45 230 230" to="405 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#E34F26" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#E34F26" font-family="monospace" font-size="11" font-weight="bold">HTML</text>
+  </g>
+
+  <!-- CSS — 90° -->
+  <g transform="rotate(90,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="90 230 230" to="450 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#000810" stroke="#1572B6" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#1572B6" font-family="monospace" font-size="12" font-weight="bold">CSS</text>
+  </g>
+
+  <!-- React — 135° -->
+  <g transform="rotate(135,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="135 230 230" to="495 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#001219" stroke="#61DAFB" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#61DAFB" font-family="monospace" font-size="10" font-weight="bold">REACT</text>
+  </g>
+
+  <!-- Node.js — 180° -->
+  <g transform="rotate(180,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="180 230 230" to="540 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#001200" stroke="#339933" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#339933" font-family="monospace" font-size="10" font-weight="bold">NODE</text>
+  </g>
+
+  <!-- MongoDB — 225° -->
+  <g transform="rotate(225,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="225 230 230" to="585 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#001200" stroke="#47A248" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#47A248" font-family="monospace" font-size="9" font-weight="bold">MONGO</text>
+  </g>
+
+  <!-- Git — 270° -->
+  <g transform="rotate(270,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="270 230 230" to="630 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#110400" stroke="#F05032" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#F05032" font-family="monospace" font-size="12" font-weight="bold">GIT</text>
+  </g>
+
+  <!-- GitHub — 315° -->
+  <g transform="rotate(315,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="315 230 230" to="675 230 230" dur="22s" repeatCount="indefinite"/>
+    <circle cx="424" cy="230" r="27" fill="#0d0d0d" stroke="#e0e0e0" stroke-width="2.2" filter="url(#softglow)"/>
+    <text x="424" y="235" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="9" font-weight="bold">GITHUB</text>
+  </g>
+
+  <!-- ╔═══════════════════════════════════════════════════════╗ -->
+  <!-- ║  INNER ORBIT — 5 techs @ r=138  CCW  14s            ║ -->
+  <!-- ╚═══════════════════════════════════════════════════════╝ -->
+
+  <!-- C++ — 0° -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 230 230" to="-360 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#000a1a" stroke="#00599C" stroke-width="2" filter="url(#neon)"/>
+    <text x="368" y="235" text-anchor="middle" fill="#00599C" font-family="monospace" font-size="11" font-weight="bold">C++</text>
+  </g>
+
+  <!-- Python — 72° -->
+  <g transform="rotate(72,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="72 230 230" to="-288 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#000d1a" stroke="#3776AB" stroke-width="2" filter="url(#neon)"/>
+    <text x="368" y="235" text-anchor="middle" fill="#3776AB" font-family="monospace" font-size="10" font-weight="bold">PY</text>
+  </g>
+
+  <!-- Express — 144° -->
+  <g transform="rotate(144,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="144 230 230" to="-216 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#111111" stroke="#cccccc" stroke-width="2" filter="url(#neon)"/>
+    <text x="368" y="235" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="8" font-weight="bold">EXP.JS</text>
+  </g>
+
+  <!-- TypeScript — 216° -->
+  <g transform="rotate(216,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="216 230 230" to="-144 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#000819" stroke="#3178C6" stroke-width="2" filter="url(#neon)"/>
+    <text x="368" y="235" text-anchor="middle" fill="#3178C6" font-family="monospace" font-size="10" font-weight="bold">TS</text>
+  </g>
+
+  <!-- Figma — 288° -->
+  <g transform="rotate(288,230,230)">
+    <animateTransform attributeName="transform" type="rotate" from="288 230 230" to="-72 230 230" dur="14s" repeatCount="indefinite"/>
+    <circle cx="368" cy="230" r="22" fill="#1a000e" stroke="#F24E1E" stroke-width="2" filter="url(#neon)"/>
+    <text x="368" y="235" text-anchor="middle" fill="#F24E1E" font-family="monospace" font-size="9" font-weight="bold">FIGMA</text>
+  </g>
+
+  <!-- Outer border -->
+  <circle cx="230" cy="230" r="226" fill="none" stroke="#00ffcc" stroke-width="0.6" opacity="0.2"/>
 </svg>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    SKILLS & TOOLS                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                        LANGUAGES & TOOLS                               -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages &nbsp;&amp;&nbsp; Tools
 
-<!-- Skill Icons (animated) -->
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" /></a>
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,c,git&theme=dark&perline=6" /></a>
+
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark&perline=8)](https://skillicons.dev)
+
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=github,vscode,figma,netlify,vercel,linux&theme=dark&perline=6" /></a>
+
+**Backend & Database**
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,c,cpp&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+**Dev Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,netlify,vercel&theme=dark&perline=6)](https://skillicons.dev)
+
+<br/>
+
+<!-- Animated skill pills -->
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Express.js-%23ffffff.svg?style=flat-square&logo=express&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117"/>
+</p>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY LEARNING                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                         PROGRESS TRACKER                               -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📈 Progress Tracker
+## 📈 Skill Progress
 
 ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │  ⚛️  React / JSX    ████████████████████░░░   82%          │
-  │  🟢 Node.js         ████████████████░░░░░░░   65%          │
-  │  🍃 MongoDB         █████████████░░░░░░░░░░   52%          │
-  │  🎨 UI/UX & Figma   ██████████░░░░░░░░░░░░░   42%          │
-  │  🧩 DSA / Problems  ████████████████████░░░   78%          │
-  │  🐍 Python          ██████████████░░░░░░░░░   58%          │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  ⚛️  React / JSX       ████████████████████░░░░   82% ▸ Strong  │
+│  🟢  Node.js           ████████████████░░░░░░░░   65% ▸ Growing │
+│  🍃  MongoDB           █████████████░░░░░░░░░░░   52% ▸ Learning│
+│  🔷  TypeScript        ████████████░░░░░░░░░░░░   48% ▸ Active  │
+│  🧩  DSA & Algorithms  ████████████████████░░░░   78% ▸ Strong  │
+│  🐍  Python            ██████████████░░░░░░░░░░   58% ▸ Growing │
+│  🎨  UI / UX Design    ██████████████░░░░░░░░░░   55% ▸ Growing │
+│  🛠️  C / C++           ███████████░░░░░░░░░░░░░   44% ▸ Solid   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                                  -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -280,109 +399,172 @@ const hetRoy = {
 <table>
 <tr>
   <td>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Het-Roy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff&ring_color=00d4ff&border_radius=12" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Het-Roy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=7b2fff&text_color=ffffff&ring_color=00ffcc&border_radius=14" />
   </td>
   <td>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-Roy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=12" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-Roy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_radius=14" />
   </td>
 </tr>
 </table>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Het-Roy&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888&border_radius=12" alt="GitHub Streak" />
+<br/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Het-Roy&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=7B2FFF&currStreakLabel=00FFCC&sideLabels=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888&border_radius=14" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- WakaTime / Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Het-Roy&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ffffff&area=true&area_color=7b2fff&hide_border=true&radius=12&title_color=00d4ff" />
+<!-- Activity Graph -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Het-Roy&bg_color=0d1117&color=00ffcc&line=7b2fff&point=00ffcc&area=true&area_color=7b2fff&hide_border=true&radius=14&title_color=00ffcc" />
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                            TROPHIES                                     -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Het-Roy&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Het-Roy&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" />
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                        CONTRIBUTION SNAKE                              -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT WITH ME                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          WHAT I'M BUILDING                             -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🚧 Current Focus
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🔨-Building-00ffcc?style=for-the-badge&labelColor=0d1117" />
+  <br/><br/>
+  <b>MERN Stack Projects</b><br/>
+  <sub>Full-stack web applications with clean architecture</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/📚-Learning-7b2fff?style=for-the-badge&labelColor=0d1117" />
+  <br/><br/>
+  <b>TypeScript + Next.js</b><br/>
+  <sub>Type-safe, scalable React applications</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🧩-Solving-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+  <br/><br/>
+  <b>DSA Problems</b><br/>
+  <sub>Sharpening algorithmic thinking daily</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT WITH ME                               -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 Let's Connect
 
 <p>
   <a href="mailto:het.roy.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="https://github.com/Het-Roy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" />
   </a>
 </p>
 
 <br/>
 
-<!-- Quote Card -->
+<!-- Animated quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- Visitor Snake Fun -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=2&section=header" width="80%"/>
+<!-- Fun separator -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="70%"/>
 
 <br/>
 
 <samp>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "First, solve the problem. Then, write the code."     ║
-║                                          — John Johnson  ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "First, solve the problem. Then, write the code."             ║
+║                                             — John Johnson       ║
+║                                                                  ║
+║   "Any fool can write code that a computer can understand.       ║
+║    Good programmers write code humans can understand."           ║
+║                                             — Martin Fowler      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </samp>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-00d4ff?style=for-the-badge&labelColor=0d1117" />
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕%20%26%20Late%20Nights-00ffcc?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,30&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,20,2,30,0&height=150&section=footer&animation=twinkling&reversal=true" />
 
 </div>
