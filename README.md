@@ -2,8 +2,6 @@
 <!-- ║              HET ROY  ·  GITHUB PROFILE README  v3.0              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://res.cloudinary.com/dwpjwccxd/image/upload/v1773736117/login_lh0zow.png" alt="Login page preview" width="100%" />
-
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  HERO BANNER  ░░░░░░░░░░░░░░░░░░░░░ -->
