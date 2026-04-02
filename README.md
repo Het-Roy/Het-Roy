@@ -11,7 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=27&duration=2000&pause=1000&color=A96EF7&center=true&vCenter=true&repeat=false&width=435&lines=Aspiring+Full+Stack+Developer;Hardcore+Problem+Solver;MERN+Stack+Developer)](https://git.io/typing-svg)
 
-
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━  CONNECT WITH ME  ━━━━━━━━━━━━━━━━━━━ -->
