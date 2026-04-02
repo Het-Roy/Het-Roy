@@ -1,29 +1,7 @@
-<!-- ============================================================ -->
-<!--          GITHUB PROFILE README — Roy Het Jayeshkumar        -->
-<!-- ⚠️  Replace YOUR-GITHUB-USERNAME with your actual username  -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Roy%20Het%20Jayeshkumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8&descSize=22&descColor=a78bfa&descAlignY=60" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=27&duration=2000&pause=1000&color=A96EF7&center=true&vCenter=true&repeat=false&width=435&lines=Aspiring+Full+Stack+Developer;Hardcore+Problem+Solver;MERN+Stack+Developer)](https://git.io/typing-svg)
-
-
-<br/>
+# Roy Het Jayeshkumar
 
 <!-- ━━━━━━━━━━━━━━━━━━━  CONNECT WITH ME  ━━━━━━━━━━━━━━━━━━━ -->
 
-<a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
-</a>
-&nbsp;
-<a href="mailto:het.roy.cg@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
 <a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
 </a>
@@ -53,13 +31,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Het-Roy&label=👁️%20Profile%20Views&color=302b63&style=for-the-badge)
 
 ---
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🧑‍💻 About Me
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
 
 - 🧑‍💻 &nbsp;Full Stack Developer specializing in **MERN Stack**
 - 🖥️ &nbsp;Currently exploring **System Design & Advanced Backend**
@@ -69,12 +44,7 @@
 - 🤝 &nbsp;Enjoy collaborating and working in **team environments**
 - 💡 &nbsp;Fun fact: I'm a **creative person** and I love my country 🇮🇳
 
-  </td>
-  <td align="center" width="40%">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer at work"/>
-  </td>
-  </tr>
-</table>
+---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -149,8 +119,4 @@
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=a78bfa&animation=fadeIn&fontAlignY=55" width="100%"/>
-
-</div>
+Thanks for visiting! 🚀
