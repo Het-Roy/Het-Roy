@@ -35,42 +35,26 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 👨‍💻 About Me
-
-</div>
-
-```yaml
-Name      : Roy Het Jayeshkumar
-Role      : Aspiring Full Stack Developer
-Focus     : MERN Stack & Scalable Web Applications
-Learning  : System Design & Advanced Backend Architecture
-Passion   : Clean UI · Performance Optimization · Problem Solving
-Strength  : DSA · Logical Thinking · Team Collaboration
-Fun Fact  : I am a creative person and I ❤️ my country 🇮🇳
-```
-
-<div align="center">
+## 🧑‍💻 About Me
 
 <table>
   <tr>
-    <td>
-      <ul>
-        <li>🚀 &nbsp;<b>Full Stack Developer</b> specializing in the <b>MERN Stack</b></li>
-        <li>📚 &nbsp;Currently exploring <b>System Design & Advanced Backend</b></li>
-        <li>🌐 &nbsp;Building <b>real-world, scalable web applications</b></li>
-        <li>🎨 &nbsp;Passionate about <b>clean UI & performance optimization</b></li>
-        <li>🧠 &nbsp;Strong in <b>DSA & Problem Solving</b></li>
-        <li>🤝 &nbsp;Enjoy <b>collaborating and working in team environments</b></li>
-        <li>⚡ &nbsp;<b>Fun fact:</b> I'm a creative person and I love my country 🇮🇳</li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-    </td>
+    <td valign="top" width="60%">
+
+- 🧑‍💻 &nbsp;Full Stack Developer specializing in **MERN Stack**
+- 🖥️ &nbsp;Currently exploring **System Design & Advanced Backend**
+- 🔨 &nbsp;Building **real-world scalable applications**
+- 🌱 &nbsp;Passionate about **clean UI & performance optimization**
+- 🧠 &nbsp;Strong in **DSA & Problem Solving**
+- 🤝 &nbsp;Enjoy collaborating and working in **team environments**
+- 💡 &nbsp;Fun fact: I'm a **creative person** and I love my country 🇮🇳
+
+  </td>
+  <td align="center" width="40%">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Developer at work"/>
+  </td>
   </tr>
 </table>
-
----
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━ -->
 
