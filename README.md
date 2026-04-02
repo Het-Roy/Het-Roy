@@ -9,9 +9,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Roy%20Het%20Jayeshkumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8&descSize=22&descColor=a78bfa&descAlignY=60" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=55&lines=Hey+there!+I'm+Het+Roy+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%94%A5;Building+Real-World+Web+Applications+%F0%9F%8C%90;Always+Learning+%E2%80%A2+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
