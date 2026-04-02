@@ -14,8 +14,6 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━  CONNECT WITH ME  ━━━━━━━━━━━━━━━━━━━ -->
 
-## 🌐 Connect With Me
-
 <a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
 </a>
@@ -23,13 +21,36 @@
 <a href="mailto:het.roy.cg@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
+<a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
+</a>
+&nbsp;
+<a href="mailto:het.roy.cg@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://youtube.com/@YOUR-YOUTUBE-HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=👁️%20Profile%20Views&color=302b63&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Het-Roy&label=👁️%20Profile%20Views&color=302b63&style=for-the-badge)
 
 ---
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🧑‍💻 About Me
