@@ -1,137 +1,171 @@
-<!-- 
-  ╔══════════════════════════════════════════════╗
-  ║  Het Roy's GitHub Profile README        
-  ║  Generated with ❤️ and precision              
-  ║  Last updated: 2026.03.18                   
-  ╚══════════════════════════════════════════════╝
--->
+<!-- ============================================================ -->
+<!--          GITHUB PROFILE README — Roy Het Jayeshkumar        -->
+<!-- ⚠️  Replace YOUR-GITHUB-USERNAME with your actual username  -->
+<!-- ============================================================ -->
 
 <div align="center">
-  
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9EE9F8&center=true&vCenter=true&random=false&width=600&height=60&lines=Aspiring%20Full%20Stack%20Developer;student" alt="Typing SVG" /></a>
 
-  <br />
-  
-  <!-- Animated Wave -->
-  <img src="https://raw.githubusercontent.com/MartinHeinworking/MartinHeinworking/4e20e431817166b04e8abd2890a0029d44332eca/wave.gif" width="30px" alt="wave">
-  
-  <br />
-  
-  <kbd>student</kbd>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-  <br /><br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Roy%20Het%20Jayeshkumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8&descSize=22&descColor=a78bfa&descAlignY=60" width="100%"/>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Het-Roy&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+<br/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=55&lines=Hey+there!+I'm+Het+Roy+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%94%A5;Building+Real-World+Web+Applications+%F0%9F%8C%90;Always+Learning+%E2%80%A2+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━  CONNECT WITH ME  ━━━━━━━━━━━━━━━━━━━ -->
+
+## 🌐 Connect With Me
+
+<a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
+</a>
+&nbsp;
+<a href="mailto:het.roy.cg@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=👁️%20Profile%20Views&color=302b63&style=for-the-badge)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
-
-Mastering the skills to create Full Stack websites and applications
-
-- 🟢 **Status:** Available to learn
-- 📍 **Location:** Kalol,Gujarat,India
-- 🕰️ **Active:** 09:00 — 18:00
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Selected Works
-
-*High-impact projects, ordered by technical complexity.*
-
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **Quantum Engine** | A high-performance rendering engine for real-time 3D | `Rust` `WASM` | `v2.4.0` |
-| **DataStream** | Real-time data visualization platform | `Next.js` `D3` | `Production` |
-| **TaskForge** | Distributed task queue with fault tolerance | `Go` `Redis` | `Beta` |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Technical Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=9ee9f8)
-
-### Frameworks
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=9ee9f8) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=9ee9f8)
-
-### Infrastructure
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=9ee9f8)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=9ee9f8)
+## 👨‍💻 About Me
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🧬 Principles
-
-1. **Performance is a feature.** If it isn't fast, it isn't finished.
-2. **Type safety is non-negotiable.** Ship with confidence or don't ship.
-3. **Minimalism in code, maximalism in documentation.** 
-4. **User-centricity.** The machine serves the human, not the other way around.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
+```yaml
+Name      : Roy Het Jayeshkumar
+Role      : Aspiring Full Stack Developer
+Focus     : MERN Stack & Scalable Web Applications
+Learning  : System Design & Advanced Backend Architecture
+Passion   : Clean UI · Performance Optimization · Problem Solving
+Strength  : DSA · Logical Thinking · Team Collaboration
+Fun Fact  : I am a creative person and I ❤️ my country 🇮🇳
+```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Het-Roy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9ee9f8&icon_color=9ee9f8&text_color=c9d1d9&ring_color=9ee9f8" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-Roy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9ee9f8&text_color=c9d1d9" alt="Top Langs" />
-</div>
 
-<br />
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🚀 &nbsp;<b>Full Stack Developer</b> specializing in the <b>MERN Stack</b></li>
+        <li>📚 &nbsp;Currently exploring <b>System Design & Advanced Backend</b></li>
+        <li>🌐 &nbsp;Building <b>real-world, scalable web applications</b></li>
+        <li>🎨 &nbsp;Passionate about <b>clean UI & performance optimization</b></li>
+        <li>🧠 &nbsp;Strong in <b>DSA & Problem Solving</b></li>
+        <li>🤝 &nbsp;Enjoy <b>collaborating and working in team environments</b></li>
+        <li>⚡ &nbsp;<b>Fun fact:</b> I'm a creative person and I love my country 🇮🇳</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-Roy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=9ee9f8&fire=9ee9f8&currStreakLabel=9ee9f8&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
+---
 
-<br />
+<!-- ━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Het-Roy&bg_color=0d1117&color=9ee9f8&line=9ee9f8&point=ffffff&area_color=9ee9f8&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+## 🛠️ Tech Stack
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🎨 Frontend
 
-## 🐍 Contribution Snake
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+<br/>
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+<br/>
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━  CONTRIBUTIONS  ━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 GitHub Contributions & Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" width="48%" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&border_radius=12" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&langs_count=8" width="48%" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=302b6340&hide_border=true&radius=12&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<!-- Snake Contribution Animation -->
+<!-- ⚠️  To enable the snake animation:
+     1. Create a repo named YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME
+     2. Add this GitHub Action: https://github.com/Platane/snk
+     3. The snake SVG will then be generated at the path below      -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Het-Roy/Het-Roy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 </picture>
 
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repository.
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🌐 Connectivity
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=a78bfa&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<div align="center">
+<br/>
 
-[**Website**](https://yourwebsite.com) • [**LinkedIn**](https://linkedin.com/in/yourprofile) • [**Twitter/X**](https://x.com/yourhandle) • [**Email**](mailto:hello@yourdomain.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&height=40&lines=✨+Thank+You+for+Stopping+By!+✨;⭐+Star+a+repo+if+you+found+it+helpful!;🤝+Let's+Connect+and+Build+Together!)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
-<br />
-
-<div align="center">
-
-  <!-- Animated footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=9ee9f8&animation=twinkling&fontAlignY=65" width="100%" />
+*Made with ❤️ by Roy Het Jayeshkumar*
 
 </div>
-
-<p align="center">
-  <sub>Last updated: 2026.03.18 • Built with precision ⚡</sub>
-</p>
