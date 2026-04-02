@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Roy%20Het%20Jayeshkumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20Aspiring%20Full%20Stack%20Developer%20%E2%9C%A8&descSize=22&descColor=a78bfa&descAlignY=60" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=26&duration=2000&pause=1000&color=A96EF7&center=true&vCenter=true&repeat=false&width=435&lines=Aspiring+Full+Stack+Developer;Hardcore+Problem+Solver;MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=27&duration=2000&pause=1000&color=A96EF7&center=true&vCenter=true&repeat=false&width=435&lines=Aspiring+Full+Stack+Developer;Hardcore+Problem+Solver;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 
 <br/>
