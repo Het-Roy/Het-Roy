@@ -47,23 +47,18 @@
 <a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
 </a>
-&nbsp;
 <a href="mailto:het.roy.cg@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="https://youtube.com/@HetRoyCG" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/HetRoy-2006/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-&nbsp;
 <a href="https://twitter.com/HettRoyy" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
 </a>
