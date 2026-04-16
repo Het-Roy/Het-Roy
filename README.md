@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://res.cloudinary.com/dwpjwccxd/raw/upload/v1775117428/Het_Roy_Resume_1_tkjed5.docx" target="_blank">
+<a href="https://drive.google.com/file/d/1nXOWW0LuKzsfMwoZN1iCrjSxzm2p3ch0/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-302b63?style=for-the-badge&logoColor=white" alt="Resume"/>
 </a>
 <a href="mailto:het.roy.cg@gmail.com" target="_blank">
